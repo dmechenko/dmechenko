@@ -47,6 +47,6 @@
 ## Stats
 <br/>
 
-[![Wajahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmechenko&theme=react&show_icons=true)](https://github.com/waj919) 
+[![Dan's Stats](https://github-readme-stats.vercel.app/api?username=dmechenko&theme=react&show_icons=true)](https://github.com/dmechenko) 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmechenko&layout=compact)](https://github.com/waj919)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmechenko&layout=compact)](https://github.com/dmechenko)
