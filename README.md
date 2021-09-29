@@ -44,7 +44,7 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 <br/> 
-## Stats about my Github  [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/waj919)
+## Stats
 <br/>
 
 [![Wajahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmechenko&theme=react&show_icons=true)](https://github.com/waj919) 
