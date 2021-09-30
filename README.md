@@ -1,11 +1,10 @@
 ### 👋 Hi there, my name's Daniel, an NYC based Software Engineer.
-
+<br/>
 <a href="https://www.linkedin.com/in/dmechenko/">
   <img align="left" alt="Linkedin" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 [![Gmail Badge](https://img.shields.io/badge/-dmechenko@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dmechenko@gmail.com)](mailto:dmechenko@gmail.com)
-
 <br/>
 
  - 💻 Full-stack developer.
