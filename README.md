@@ -48,4 +48,4 @@
 
 [![Dan's Stats](https://github-readme-stats.vercel.app/api?username=dmechenko&theme=react&show_icons=true)](https://github.com/dmechenko) 
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmechenko&layout=compact)](https://github.com/dmechenko)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmechenko&layout=compact)](https://github.com/dmechenko) -->
