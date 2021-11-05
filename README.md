@@ -43,9 +43,9 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 <br/> 
-## Stats
+<!-- ## Stats
 <br/>
 
-[![Dan's Stats](https://github-readme-stats.vercel.app/api?username=dmechenko&theme=react&show_icons=true)](https://github.com/dmechenko) 
+[![Dan's Stats](https://github-readme-stats.vercel.app/api?username=dmechenko&theme=react&show_icons=true)](https://github.com/dmechenko)  -->
   
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmechenko&layout=compact)](https://github.com/dmechenko) -->
